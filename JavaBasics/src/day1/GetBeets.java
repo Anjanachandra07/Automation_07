@@ -18,5 +18,4 @@ public class GetBeets {
 		System.out.println(c1.getBeets());
 
 	}
-//prime - 1 and itself - 2,3,5,7
 }
